@@ -1,6 +1,7 @@
-# 🧪 Selenium Login Automation Demo
+```markdown
+# 🧪 Selenium Login Automation
 
-This project demonstrates **automated testing** of a login workflow using **Selenium** and **pytest**.
+A demo project showcasing **automated login workflows** using **Selenium** and **pytest**, including UI validation and screenshot capture.
 
 It uses a demo login page: [The Internet – Login Page](https://the-internet.herokuapp.com/login) 🌐
 
@@ -17,9 +18,9 @@ It uses a demo login page: [The Internet – Login Page](https://the-internet.he
 
 ## 🛠️ Prerequisites
 
-- Python 3.10+   
+- Python 3.10+  
 - Chrome browser installed  
-- VS Code or any IDE (optional) 
+- VS Code or any IDE (optional)  
 
 ---
 
@@ -28,8 +29,8 @@ It uses a demo login page: [The Internet – Login Page](https://the-internet.he
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/selenium-login-test.git
-cd selenium-login-test
+git clone https://github.com/Thinh59/selenium-login-automation.git
+cd selenium-login-automation
 ```
 
 2. (Optional) Create a virtual environment:
@@ -62,7 +63,7 @@ pytest -v
 
 ## 🔑 Customize Username / Password
 
-You can easily change the credentials in `test_login.py`:
+You can change the credentials in `test_login.py`:
 
 ```python
 USERNAME = "tomsmith"              # Change to your username
@@ -80,7 +81,6 @@ PASSWORD = "SuperSecretPassword!"  # Change to your password
 
 ## ⚠️ Notes
 
-- This is a demo project for **automation testing practice**  
-- Ready to use as a **QC Intern portfolio project** 💼
-# selenium-login-automation
-A demo project showcasing automated login and logout workflows with Selenium and Python, including UI validation and screenshot capture.
+- Demo project for **automation testing practice**  
+- Perfect for a **QC Intern portfolio** 💼
+```
