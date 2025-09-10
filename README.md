@@ -75,11 +75,3 @@ PASSWORD = "SuperSecretPassword!"  # Change to your password
 
 - **Success:** `screenshots/success.png`  
 - **Failure:** `screenshots/failure.png`  
-
----
-
-## ⚠️ Notes
-
-- Demo project for **automation testing practice**  
-- Perfect for a **QC Intern portfolio** 💼
-```
