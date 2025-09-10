@@ -1,4 +1,3 @@
-```markdown
 # 🧪 Selenium Login Automation
 
 A demo project showcasing **automated login workflows** using **Selenium** and **pytest**, including UI validation and screenshot capture.
